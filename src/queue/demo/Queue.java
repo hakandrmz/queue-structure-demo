@@ -1,7 +1,9 @@
-package queueDemo;
+package queue.demo;
 
 class Queue {
-    Student front, rear;
+
+    Student front;
+    Student rear;
 
     public Queue() {
         this.front = this.rear = null;

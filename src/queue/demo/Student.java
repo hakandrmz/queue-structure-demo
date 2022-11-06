@@ -1,4 +1,4 @@
-package queueDemo;
+package queue.demo;
 
 class Student {
     int studentNumber;
